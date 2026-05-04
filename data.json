@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"Nomundari",
+        "gmail":"nomundari.tsengel@gmail.com",
+        "age":15,
+        "height":"190cm",
+        "country":"Mongolia",
+        "school":"Nest Education",
+        "human": true,
+        "alive": true,
+        "created_at":"2026-3-23"
+    },
+    {
+        "id":2,
+        "name":"Enkh-Ujin",
+        "gmail":"enkhujin@gmail.com",
+        "age":16,
+        "height":"-0.1cm",
+        "country":"Mongolia",
+        "school":"Nest Education",
+        "human": false, 
+        "alive": false,
+        "created_at":"2026-3-23"
+    },
+    {
+        "id":3,
+        "name":"Azzaya",
+        "gmail":"azzaya@gmail.com",
+        "age":15,
+        "height":"160cm",
+        "country":"Mongolia",
+        "school":"Nest Education",
+        "human": true, 
+        "alive": true,
+        "created_at":"2026-3-23"
+    },
+    {
+        "id":4,
+        "name":"Enkhnomuun",
+        "gmail":"enkhnomuun@gmail.com",
+        "age":15,
+        "height":"170cm",
+        "country":"Mongolia",
+        "school":"Nest Education",
+        "human": true, 
+        "alive": true,
+        "created_at":"2026-3-23"
+    },
+    {
+        "id":5,
+        "name":"Togoldor",
+        "gmail":"togoldor@gmail.com",
+        "age":15,
+        "height":"110cm",
+        "country":"Mongolia",
+        "school":"Nest Education",
+        "human": true, 
+        "alive": true,
+        "created_at":"2026-3-23"
+    },
+    {
+        "id":6,
+        "name":"Nyamjantsan",
+        "gmail":"nyamjantsan@gmail.com",
+        "age":15,
+        "height":"100cm",
+        "country":"Mongolia",
+        "school":"Nest Education",
+        "human": true, 
+        "alive": true,
+        "created_at":"2026-3-23"
+    }
+]
